@@ -1,0 +1,17 @@
+print("Modules are somebody else code which you can use to by importing it in your file ",
+      "Modules are containers, and inside them you may have functions, classes, or variable",
+      "so you dont have to rebulit it again you just call them ",
+      "what import does ",
+      "when we import it loads the module into memory and gives you access to its namespace.",
+      "they contain functions, classes, constants , lists , collections , or even other modules",
+      "for ex they are classes",
+      "we call them using class.functionName(arguments) ",
+      "then the function does the work ",
+      "ex import math",
+      "math.sqrt(16)  sqrt is a function in math which returns the square root of the given argument",
+      "there are two types of modules in pythom ",
+      "1 : built in modules  like math and many more ",
+      "2 : external modules  external modules can either be written by us or can also be installed using a utility function called pip",
+      "pip install module Name",
+      sep="\n"
+    )
